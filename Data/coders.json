@@ -1,5 +1,28 @@
 [
      {
+        "Name": "Khush Kanjani",
+        "College": "Indian Institute of Information Technology, Allahabad",
+        "Passout Year": "2024",
+        "Song that defines your relationship status": [
+            "プシケ",
+            "https://www.youtube.com/watch?v=cvh0nX08nRw"
+        ],
+        "Your favourite hindi song": [
+            "Dil chi cha ledar",
+            "https://www.youtube.com/watch?v=dXzXdODxsZs"
+        ],
+        "Best youtube video you ever watched": [
+            "my name is Giovanni Georgio, but everybody calls me Giorgio",
+            "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        ],
+        "Most useless skill you have": "assuming you did that, yes",
+        "Codechef id": "https://www.codechef.com/users/ready_aye_code",
+        "Codeforces id": "https://codeforces.com/profile/KanMan",
+        "Atcoder id": "https://atcoder.jp/users/BlingTing",
+        "Discord username": "Nokturnal",
+        "Instagram": "https://www.instagram.com/justfine_kanjani/"
+    },
+     {
         "Name": "Dheeraj bhardwaj",
         "College": "Indian Institute of Information Technology Allahabad",
         "Passout Year": "2024",
@@ -2484,29 +2507,7 @@
         "Discord username": "Kirtee",
         "Instagram": "https://www.instagram.com/Kirtee_._prajapati/"
     },
-    {
-        "Name": "Khush Kanjani",
-        "College": "Indian Institute of Information Technology, Allahabad",
-        "Passout Year": "2024",
-        "Song that defines your relationship status": [
-            "プシケ",
-            "https://www.youtube.com/watch?v=cvh0nX08nRw"
-        ],
-        "Your favourite hindi song": [
-            "Dil chi cha ledar",
-            "https://www.youtube.com/watch?v=dXzXdODxsZs"
-        ],
-        "Best youtube video you ever watched": [
-            "my name is Giovanni Georgio, but everybody calls me Giorgio",
-            "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-        ],
-        "Most useless skill you have": "assuming you did that, yes",
-        "Codechef id": "https://www.codechef.com/users/ready_aye_code",
-        "Codeforces id": "https://codeforces.com/profile/KanMan",
-        "Atcoder id": "https://atcoder.jp/users/BlingTing",
-        "Discord username": "Nokturnal",
-        "Instagram": "https://www.instagram.com/justfine_kanjani/"
-    },
+    
     {
     "Name": "Nikita",
     "College": "IIIT-Allahabad",
@@ -2577,6 +2578,30 @@
             "Discord username": "jack sparrow#2201",
             "Instagram": "https://www.instagram.com/shreya_2108/"
 
-}
+},
+        {
+            "Name": "Vasanth Naik",
+            "College": "IIIT-Allahabad",
+            "Passout Year": "2024",
+            "Song that defines your relationship status": [
+            "Not afraid",
+            "https://www.youtube.com/watch?v=j5-yKhDd64s"
+            ],
+            "Your favourite hindi song": [
+            "desi kalakar",
+            "https://www.youtube.com/watch?v=KhnVcAC5bIM"
+            ],
+            "Best youtube video you ever watched": [
+            "cs50-algorithms",
+            "https://www.youtube.com/watch?v=IFPedSR9wNU"
+            ],
+            "Most useless skill you have": "fun-talk",
+            "Codechef id": "https://www.codechef.com/users/vasanth_96",
+            "Codeforces id": "https://codeforces.com/profile/Guycholo_",
+            "Atcoder id": "https://atcoder.jp/users/guycholo",
+            "Discord username": "GuyCholo#1563",
+            "Instagram": "https://www.instagram.com/vasanth_o12/"
+            
+}   
          
 ]
